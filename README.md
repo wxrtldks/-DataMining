@@ -13,4 +13,4 @@
 
 ## 三、上传ppt到库
 1. 进入创建好的库中点击 `Add file` 下的 `Upload files` 选项
-2. 点击蓝字 `Choose your files`
+2. 点击蓝字 `Choose your files` 选中自己的ppt后上传即可
