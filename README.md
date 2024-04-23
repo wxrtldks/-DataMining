@@ -19,4 +19,4 @@
 1. 通过matlab实现卫星星座运行过程的仿真，比如常见的walker-delta星座、starlink星座等，最好是能在3D图中表现出来  
 2. 在设计结合DRL的队列管理算法时，能够将卫星星座的运行过程作为一个因素考虑进去，比如可以利用图卷积神经网络来处理每个时间段内卫星的拓扑结构
 
-https://github.com/wxrtldks/-DataMining/tree/main
+[https://github.com/wxrtldks/-DataMining/tree/main](https://github.com/wxrtldks/wangxinruiDataMining)
