@@ -7,7 +7,7 @@
 
 ## 二、创建新的库
 1. 点击右上角的加号下的 `New repository` 选项
-2. 在 `Repository name` 输入库的名称，例如 `王欣睿DataMining`
+2. 在 `Repository name` 输入库的名称，例如 `wangxinruiDataMining`
 3. 勾选 `Public` 将库设为公开
 4. 勾选 `Add a README` 选项
 
